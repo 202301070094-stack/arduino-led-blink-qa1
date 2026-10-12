@@ -1,4 +1,4 @@
-# arduino-led-blinking-qa
+# arduino-led-blink-qa1
 Arduino LED Blinking project with QA issue tracking and collaborative problem solving.
 # Arduino LED Blinking Project
 
